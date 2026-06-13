@@ -1,9 +1,11 @@
 # Visualizing and Analyzing Bird Movement Data in R
 
+Introductory workshop slides: https://docs.google.com/presentation/d/1oU9j1sOIiRsNpBJJXklXur4hLRE2nnyq-HHLxFCgpyA/edit?usp=sharing
+
 This workshop is prepared for the Wilson Ornithological Society/Association of Field Ornithologists Meeting in Newport, RI (7 July 2026).
 
 In this workshop, we will:
-- Visualize bird movement data
+- Prepare and visualize bird movement data
 - Complete an integrated Step Selection Analysis (iSSA)
 
 The example data and code are adapted from [Russo et al. 2024 Journal of Animal Ecology](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14202https://drive.google.com/file/d/1a8e69UfHKeGuSw7tDPWVVPBPNauVWi4m/view?usp=sharing)
